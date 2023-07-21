@@ -721,49 +721,49 @@ public class Config extends cc.polyfrost.oneconfig.config.Config {
 	@Slider(
 		name = "Nether Wart Cap", category = FAILSAFE, subcategory = "Jacob",
 		description = "The nether wart cap",
-		min = 0, max = 1000000, step = 10000
+		min = 0, max = 10000000, step = 10000
 	)
 	public int jacobNetherWartCap = 400000;
 	@Slider(
 		name = "Potato Cap", category = FAILSAFE, subcategory = "Jacob",
 		description = "The potato cap",
-		min = 0, max = 1000000, step = 10000
+		min = 0, max = 10000000, step = 10000
 	)
 	public int jacobPotatoCap = 400000;
 	@Slider(
 		name = "Carrot Cap", category = FAILSAFE, subcategory = "Jacob",
 		description = "The carrot cap",
-		min = 0, max = 1000000, step = 10000
+		min = 0, max = 10000000, step = 10000
 	)
 	public int jacobCarrotCap = 400000;
 	@Slider(
 		name = "Wheat Cap", category = FAILSAFE, subcategory = "Jacob",
 		description = "The wheat cap",
-		min = 0, max = 1000000
+		min = 0, max = 10000000
 	)
 	public int jacobWheatCap = 400000;
 	@Slider(
 		name = "Sugar Cane Cap", category = FAILSAFE, subcategory = "Jacob",
 		description = "The sugar cane cap",
-		min = 0, max = 1000000, step = 10000
+		min = 0, max = 10000000, step = 10000
 	)
 	public int jacobSugarCaneCap = 400000;
 	@Slider(
 		name = "Mushroom Cap", category = FAILSAFE, subcategory = "Jacob",
 		description = "The mushroom cap",
-		min = 0, max = 1000000, step = 10000
+		min = 0, max = 10000000, step = 10000
 	)
 	public int jacobMushroomCap = 200000;
 	@Slider(
 		name = "Melon Cap", category = FAILSAFE, subcategory = "Jacob",
 		description = "The melon cap",
-		min = 0, max = 1000000, step = 10000
+		min = 0, max = 10000000, step = 10000
 	)
 	public int jacobMelonCap = 400000;
 	@Slider(
 		name = "Pumpkin Cap", category = FAILSAFE, subcategory = "Jacob",
 		description = "The pumpkin cap",
-		min = 0, max = 1000000, step = 10000
+		min = 0, max = 10000000, step = 10000
 	)
 	public int jacobPumpkinCap = 400000;
 
