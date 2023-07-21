@@ -135,6 +135,7 @@ public class Config extends cc.polyfrost.oneconfig.config.Config {
 			"Cocoa Beans (RoseGold version)", // 5
 			"Mushroom (45°)", // 6
 			"Mushroom (30° with rotations)", // 7
+			"required to make it work, does nothing" // 8
 		}
 	)
     public int SShapeMacroType = 0;
